@@ -1,0 +1,22 @@
+.noti-message {
+    padding: 0.8em 1.3em;
+    font-size: 13px;
+    letter-spacing: 1px;
+    font-weight: 800;
+    text-transform: uppercase;
+    line-height: 1.2;
+    outline: 0;
+    text-shadow: none;
+    border-radius: 2px;
+    width: 286px;
+    position: fixed;
+    z-index: 300000;
+    top: 45px;
+    right: -4000px;
+}
+
+.span-table {
+    display: inline-block;
+    width: max-content;
+    margin: 30px auto
+}
